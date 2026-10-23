@@ -1,0 +1,19 @@
+{
+	"name": "Selbiges",
+	"short_name": "Selbiges",
+	"description": "Zeigt zwei zufällige Kategorien an.",
+	"start_url": ".",
+	"scope": ".",
+	"display": "standalone",
+	"background_color": "#1e1b4b",
+	"theme_color": "#1e1b4b",
+	"lang": "de",
+	"icons": [
+		{
+			"src": "icon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		}
+	]
+}
